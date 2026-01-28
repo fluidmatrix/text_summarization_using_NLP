@@ -55,7 +55,7 @@ transformer_model/
 ## ⚙ Training Configuration
 
 ### Training Loss
-![PLT PLOT](<Screenshot 2026-01-28 113638.png>)
+![PLT PLOT](<113638.png>)
 
 ### Sequence Lengths
 - Encoder max length: 150
